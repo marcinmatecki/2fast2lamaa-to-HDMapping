@@ -12,8 +12,8 @@ Run following commands in terminal
 ```shell
 mkdir -p ~/hdmapping-benchmark
 cd ~/hdmapping-benchmark
-git clone https://github.com/MapsHD/benchmark-GenZ-ICP-to-HDMapping.git --recursive
-cd benchmark-GenZ-ICP-to-HDMapping
+git clone https://github.com/MapsHD/benchmark-2fast2lamaa-to-HDMapping.git --recursive
+cd benchmark-2fast2lamaa-to-HDMapping
 git checkout Bunker-DVI-Dataset-reg-1
 docker build -t 2fast2lamaa_jazzy .
 ```
