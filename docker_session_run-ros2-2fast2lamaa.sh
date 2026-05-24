@@ -19,7 +19,7 @@ usage() {
   exit 1
 }
 
-echo "=== GENZ-ICP ROS2 rosbag pipeline ==="
+echo "=== 2FAST2LAMAA ROS2 rosbag pipeline ==="
 
 if [[ "$1" == "-h" || "$1" == "--help" ]]; then
   usage
